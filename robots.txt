@@ -1,0 +1,10 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://tituspendergraft407.github.io/tituspendergraft407_github_io_zp531_10.txt
+Sitemap: https://tituspendergraft407.github.io/tituspendergraft407_github_io_zp531_15.txt
+Sitemap: https://tituspendergraft407.github.io/tituspendergraft407_github_io_zp531_2.txt
+Sitemap: https://tituspendergraft407.github.io/tituspendergraft407_github_io_zp531_24.txt
+Sitemap: https://tituspendergraft407.github.io/tituspendergraft407_github_io_zp531_29.txt
+Sitemap: https://tituspendergraft407.github.io/tituspendergraft407_github_io_zp531_33.txt
+Sitemap: https://tituspendergraft407.github.io/tituspendergraft407_github_io_zp531_8.txt
